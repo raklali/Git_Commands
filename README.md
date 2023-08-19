@@ -1,4 +1,4 @@
 # Git_Commands
-The Excel File Lists basic Git Commands with an attempt to place them in a sequence with an Aim to provide as a Learning Tool and probably using Git.
-Please Feel free to Update the Excel File which may include Correcting the existing data and adding missing commands.
-The Excel File is for ease of learning Use of Git.
+The Excel spreadsheet compiles fundamental Git commands, arranged in a logical sequence to serve as an educational resource, potentially aiding in the comprehension and utilization of Git. The Excel document is intended to facilitate the learning process of Git.
+
+You are welcome to enhance the Excel file by rectifying any inaccuracies in the current content and incorporating any omitted commands.
